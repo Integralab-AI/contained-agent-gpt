@@ -1,2 +1,6 @@
 tmp/
 autogpt
+.venv/
+.env/
+venv/
+env/
